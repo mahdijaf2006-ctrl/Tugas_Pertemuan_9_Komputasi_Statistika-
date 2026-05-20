@@ -1,0 +1,2 @@
+# Tugas_Pertemuan_9_Komputasi_Statistika-
+1314624010_Mohammad Mahdi Jafari
