@@ -1,0 +1,26 @@
+# Nama  : Mohammad Mahdi Jafari  
+# NIM   : 1314624010
+# Tugas : Komputasi Statistika (Pertemuan 9)
+
+# Tes Push Ke Github Repository
+
+a <- 1
+b <- 6
+c <- 9
+
+# Memuat Data 
+data(mtcars)
+
+# Ringkasan Statistik 
+summary(mtcars)
+
+# Hitung Rata-Rata & Standar Deviasi MPG
+mean(mtcars$mpg)
+sd(mtcars$mpg)
+
+# Nilai Maksimum & Minimum MPG 
+max(mtcars$mpg)
+min(mtcars$mpg)
+
+# Melihat 6 Data Pertama MPG 
+head(mtcars$mpg)
