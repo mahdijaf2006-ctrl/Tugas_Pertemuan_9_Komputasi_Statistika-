@@ -9,6 +9,9 @@ x <- 6
 y <- 9
 z <- 11
 
+a <- 2020
+b <- 2018
+
 # Ringkasan Statistik 
 summary(mtcars)
 
